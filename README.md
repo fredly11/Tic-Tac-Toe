@@ -18,7 +18,7 @@ This software allows two players to engage in a Tic-Tac-Toe game over a local ne
     * Enter the IP address of the host player.
     * The game window will appear, and the game will begin.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=9L-MKqTnbqE)
 
 # Network Communication
 
